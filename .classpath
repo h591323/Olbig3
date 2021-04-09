@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/nho00/OneDrive/Desktop/Ny mappe (2)/lib/eclipselink-2.7.7.jar" sourcepath="lib/eclipselink-2.7.7.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Oblig3/lib/eclipselink-2.7.7.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/nho00/OneDrive/Desktop/Ny mappe (2)/lib/javax.persistence-api-2.2.jar" sourcepath="lib/javax.persistence-api-2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Oblig3/lib/javax.persistence-api-2.2.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/nho00/OneDrive/Desktop/Ny mappe (2)/lib/postgresql-42.2.17.jar" sourcepath="lib/postgresql-42.2.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Oblig3/lib/postgresql-42.2.17.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
